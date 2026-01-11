@@ -17,7 +17,6 @@ cleaning techniques and interactive Tableau dashboards.
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
-
 ---
 
 ## 📈 Key KPIs
