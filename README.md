@@ -15,8 +15,7 @@ cleaning techniques and interactive Tableau dashboards.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://raw.githubusercontent.com/zishangit01/British-Airways-CSAT-Dashboard/main/Dashboard_Screenshot.png)
-
+![Dashboard Screenshot](assets/Dashboard_Screenshot.png)
 
 ---
 
