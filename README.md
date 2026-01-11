@@ -15,7 +15,7 @@ cleaning techniques and interactive Tableau dashboards.
 ---
 
 ## 📊 Dashboard Preview
-<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="100%">
+![Dashboard Screenshot](./Dashboard_Screenshot.png)
 
 ---
 
