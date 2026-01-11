@@ -66,6 +66,8 @@ British-Airways-CSAT-Dashboard/
 ├── British_Airways_Passenger_Satisfaction_Analysis.pdf
 └── README.md
 
+---
+
 ## 👤 Author
 **Zishan Alam**  
 🔗 LinkedIn: https://www.linkedin.com/in/zishan-alam-
