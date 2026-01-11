@@ -57,6 +57,7 @@ cleaning techniques and interactive Tableau dashboards.
 ---
 
 ## 📁 Repository Structure
+
 British-Airways-CSAT-Dashboard/
 │
 ├── Dataset/
@@ -64,8 +65,6 @@ British-Airways-CSAT-Dashboard/
 ├── Dashboard_Screenshot.png
 ├── British_Airways_Passenger_Satisfaction_Analysis.pdf
 └── README.md
-
----
 
 ## 👤 Author
 **Zishan Alam**  
